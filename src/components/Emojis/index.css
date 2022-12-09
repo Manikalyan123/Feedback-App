@@ -1,0 +1,10 @@
+.listOrder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+.emoji-image {
+  height: 100px;
+  width: 100px;
+}
